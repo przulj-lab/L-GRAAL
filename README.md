@@ -97,7 +97,7 @@ BLAST alignment scores between proteins, formatted as:
 - **[Spinal](https://code.google.com/archive/p/spinal/)**
 - **[Piswap](https://cb.csail.mit.edu//piswap/webserver/)**
 - **[Ghost](https://www.cs.cmu.edu/~ckingsf/software/ghost/)**
-- **[MI-GRAAL](https://www.ncbi.nlm.nih.gov/pubmed/23047559)**
+- **[MI-GRAAL](https://github.com/przulj-lab/MI-GRAAL)**
 - **[IsoRank](https://cb.csail.mit.edu//mna/)**
 
 ## Citation
